@@ -1,0 +1,15 @@
+.bg-resident {
+    background-color: #900c45;
+}
+
+.text-resident {
+    color: #900c45;
+}
+
+.hr-2 {
+    height: 2px;
+}
+
+textarea {
+    resize: none;
+}

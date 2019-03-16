@@ -21,22 +21,22 @@
 			<div class="form-group">
 				<label for="username" class="text-exodia">Username</label>
 				<input type="text" class="form-control" id="username" placeholder="Username..." name="username"
-				       th:value="*{registerModel.username}"/>
+				       th:value="${registerModel.username}"/>
 			</div>
 			<div class="form-group">
 				<label for="password" class="text-exodia">Password</label>
 				<input type="password" class="form-control" id="password" placeholder="Password..." name="password"
-				       th:value="*{registerModel.password}"/>
+				       th:value="${registerModel.password}"/>
 			</div>
 			<div class="form-group">
 				<label for="confirmPassword" class="text-exodia">Confirm Password</label>
 				<input type="password" class="form-control" id="confirmPassword" placeholder="Confirm Password..."
-				       name="confirmPassword" th:value="*{registerModel.confirmPassword}"/>
+				       name="confirmPassword" th:value="${registerModel.confirmPassword}"/>
 			</div>
 			<div class="form-group">
 				<label for="email" class="text-exodia">Email</label>
 				<input type="email" class="form-control" id="email" placeholder="Email..." name="email"
-				       th:value="*{registerModel.email}"/>
+				       th:value="${registerModel.email}"/>
 			</div>
 			<hr class="bg-exodia hr-2"/>
 			<div class="button-holder mt-4 d-flex justify-content-center">
