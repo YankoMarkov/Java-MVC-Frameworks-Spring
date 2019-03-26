@@ -31,8 +31,8 @@
 							`<td>${x.magnitude}</td>` +
 							`<td>${x.releasedOn}</td>` +
 							`<td class="d-flex justify-content-between">` +
-							`<a class="btn btn-outline-secondary" href="/viruses/edit?id=${x.id}">Edit</a>` +
-							`<a class="btn btn-outline-secondary" href="/viruses/delete?id=${x.id}">Delete</a>` +
+							`<a sec:authorize="hasAnyAuthority('ADMIN', 'MODERATOR')" class="btn btn-outline-secondary" href="/viruses/edit?id=${x.id}">Edit</a>` +
+							`<a sec:authorize="hasAnyAuthority('ADMIN', 'MODERATOR')" class="btn btn-outline-secondary" href="/viruses/delete?id=${x.id}">Delete</a>` +
 							`</td>` +
 							`</tr>`;
 					});
