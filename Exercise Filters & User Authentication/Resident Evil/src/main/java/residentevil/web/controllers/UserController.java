@@ -83,7 +83,7 @@ public class UserController extends BaseController {
 		return this.view("allUsers", modelAndView);
 	}
 	
-	@PostMapping("changeRole")
+	@PostMapping("/changeRole")
 	public ModelAndView changeRole(@RequestParam("id") String id,
 	                               @Valid @ModelAttribute("role") RoleViewModel role,
 	                               BindingResult bindingResult) {
