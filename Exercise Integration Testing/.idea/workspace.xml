@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd667554-43ac-4b1c-91e4-570013c90ae2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Cardealer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cardealer/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cardealer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/CardealerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/config/ApplicationBeanConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/config/WebMvcSecurityConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/entities/BaseEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/entities/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/entities/CarSale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/entities/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/entities/Part.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/entities/PartSale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/entities/Sale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/entities/Supplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/entities/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/models/binding/AddCarBindingModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/models/binding/AddCustomerBindingModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/models/binding/AddPartBindingModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/models/binding/AddSupplierBindingModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/models/binding/RegisterUserBindingModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/models/service/BaseServiceModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/models/service/CarSaleServiceModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/models/service/CarServiceModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/models/service/CustomerServiceModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/models/service/PartSaleServiceModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/models/service/PartServiceModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/models/service/SaleServiceModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/models/service/SupplierServiceModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/domain/models/service/UserServiceModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/repository/CarRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/repository/CarSaleRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/repository/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/repository/PartRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/repository/PartSaleRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/repository/SupplierRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/service/CarService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/service/CarServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/service/CustomerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/service/PartService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/service/PartServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/service/SaleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/service/SaleServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/service/SupplierService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/service/SupplierServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/service/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/web/controllers/BaseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/web/controllers/CarsController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/web/controllers/CarsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/web/controllers/CustomersController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/web/controllers/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/web/controllers/PartsController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/web/controllers/PartsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/web/controllers/SuppliersController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cardealer/target/classes/org/softuni/cardealer/web/controllers/UsersController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workshop1/Image/7d2578d221e76cda72df72d8511f8ea4-290210870.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workshop1/Image/samsung-galaxy-s10-1.jpg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="975" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Exercise Integration Testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise Integration Testing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise Integration Testing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise Integration Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="Cardealer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd667554-43ac-4b1c-91e4-570013c90ae2" name="Default Changelist" comment="" />
+      <created>1555786874337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555786874337</updated>
+      <workItem from="1555786875541" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
